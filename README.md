@@ -1,2 +1,2 @@
 Hello world
-This is a Git demo.
+This is a Git tutorial..
