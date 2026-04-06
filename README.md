@@ -1,1 +1,2 @@
-# merge-conflict-demo
+Hello world
+This is a Git demo.
